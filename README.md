@@ -1,1 +1,1 @@
-# SistemaGestionHospitalJava
+# PracticaProgramaCitasHospital
