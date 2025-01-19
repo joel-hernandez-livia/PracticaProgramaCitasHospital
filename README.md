@@ -1,1 +1,1 @@
-# SistemaGestionHospital
+# SistemaGestionHospitalJava
